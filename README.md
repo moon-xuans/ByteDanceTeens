@@ -3,3 +3,4 @@
 - advance —— GO语言入门
 - framework —— Go框架三件套
 - hibernate —— 高质量编程与性能调优实践
+- memory —— Go语言内存管理详解
